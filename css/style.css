@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.main{
+   margin-top: 25px; 
+   display: table;
+   padding: 15px;
+   background-color: cadetblue;
+   border: solid 2.5px black;
+}
+.main label{
+    display: table-row;
+    font-weight: bold;
+}
+
+.main input{
+    display: table-row;
+    padding: 3px;
+}
+
+
+
+
+
+
